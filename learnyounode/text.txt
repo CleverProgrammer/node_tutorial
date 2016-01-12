@@ -1,0 +1,4 @@
+This is a file with text.
+This text is so my program.js can run and count the number of new lines on here.
+Hooray.
+Should be something like 4.
